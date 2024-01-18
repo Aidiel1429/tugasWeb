@@ -1,0 +1,35 @@
+.image {
+  filter: brightness(60%);
+}
+
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax img {
+  filter: grayscale(1);
+  opacity: 0.5 !important;
+}
+
+.parallax-container {
+  height: 20%;
+}
+
+.img img {
+  max-width: 150px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+.judul {
+  margin-bottom: 25px;
+}
+
+section {
+  padding: 20px 0px;
+}
+
+footer {
+  padding: 10px 0px;
+}
